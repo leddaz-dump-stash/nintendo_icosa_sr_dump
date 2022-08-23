@@ -1,0 +1,309 @@
+/vendor/lib/modules/snd-soc-tegra-alt-t186ref-p2382.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/ina3221.ko:
+/vendor/lib/modules/tda826x.ko:
+/vendor/lib/modules/ds3000.ko:
+/vendor/lib/modules/lgdt3305.ko:
+/vendor/lib/modules/tegra-vivid.ko: /vendor/lib/modules/font.ko
+/vendor/lib/modules/gps_wake.ko:
+/vendor/lib/modules/ix2505v.ko:
+/vendor/lib/modules/lr388k7_ts.ko:
+/vendor/lib/modules/mt2063.ko:
+/vendor/lib/modules/cpufreq_userspace.ko:
+/vendor/lib/modules/dibx000_common.ko:
+/vendor/lib/modules/exc80_ts.ko:
+/vendor/lib/modules/cx231xx-dvb.ko: /vendor/lib/modules/cx231xx.ko /vendor/lib/modules/tveeprom.ko /vendor/lib/modules/cx2341x.ko /vendor/lib/modules/videobuf-vmalloc.ko /vendor/lib/modules/videobuf-core.ko
+/vendor/lib/modules/stv0299.ko:
+/vendor/lib/modules/tegra210-adma.ko:
+/vendor/lib/modules/virtio_mmio.ko:
+/vendor/lib/modules/rm31080a_ctrl.ko:
+/vendor/lib/modules/mxl301rf.ko:
+/vendor/lib/modules/tda10048.ko:
+/vendor/lib/modules/exc80_ts_usb.ko:
+/vendor/lib/modules/tda8083.ko:
+/vendor/lib/modules/hid-xinmo.ko:
+/vendor/lib/modules/nv_hv_seccan.ko: /vendor/lib/modules/can-dev.ko
+/vendor/lib/modules/tda18271c2dd.ko:
+/vendor/lib/modules/videobuf-vmalloc.ko: /vendor/lib/modules/videobuf-core.ko
+/vendor/lib/modules/tegra_hv_net.ko:
+/vendor/lib/modules/lcd.ko:
+/vendor/lib/modules/pwm-tegra-pmc-blink.ko:
+/vendor/lib/modules/ahci_tegra.ko:
+/vendor/lib/modules/nvgpu.ko:
+/vendor/lib/modules/tuner.ko:
+/vendor/lib/modules/mxl5007t.ko:
+/vendor/lib/modules/si2157.ko:
+/vendor/lib/modules/tda10071.ko:
+/vendor/lib/modules/usbserial.ko:
+/vendor/lib/modules/lnbh25.ko:
+/vendor/lib/modules/tegra_cpu_sysfs.ko:
+/vendor/lib/modules/therm_fan_est.ko:
+/vendor/lib/modules/snd-soc-tegra210-alt-i2s.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/tegra_bootloader_debug.ko:
+/vendor/lib/modules/cx2341x.ko:
+/vendor/lib/modules/isc_pwm.ko:
+/vendor/lib/modules/tda10086.ko:
+/vendor/lib/modules/hid-betopff.ko:
+/vendor/lib/modules/s5h1420.ko:
+/vendor/lib/modules/snd-soc-tegra-machine-driver-mobile.ko: /vendor/lib/modules/snd-soc-rt5640.ko /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/snd-hda-tegra.ko:
+/vendor/lib/modules/dib3000mb.ko:
+/vendor/lib/modules/ftdi_sio.ko: /vendor/lib/modules/usbserial.ko
+/vendor/lib/modules/virtio_net.ko:
+/vendor/lib/modules/s5h1411.ko:
+/vendor/lib/modules/qm1d1c0042.ko:
+/vendor/lib/modules/fc0012.ko:
+/vendor/lib/modules/can-bcm.ko: /vendor/lib/modules/can.ko
+/vendor/lib/modules/sp2.ko:
+/vendor/lib/modules/stb6100.ko:
+/vendor/lib/modules/governor_pod_scaling.ko:
+/vendor/lib/modules/itd1000.ko:
+/vendor/lib/modules/drxd.ko:
+/vendor/lib/modules/rtl2832.ko:
+/vendor/lib/modules/tua9001.ko:
+/vendor/lib/modules/nvs_bmi160.ko: /vendor/lib/modules/nvs.ko
+/vendor/lib/modules/nvs_dfsh.ko: /vendor/lib/modules/nvs.ko
+/vendor/lib/modules/dib0070.ko:
+/vendor/lib/modules/tda827x.ko:
+/vendor/lib/modules/nvs.ko:
+/vendor/lib/modules/lnbp21.ko:
+/vendor/lib/modules/it913x.ko:
+/vendor/lib/modules/tc358840.ko:
+/vendor/lib/modules/ds1050_bl.ko:
+/vendor/lib/modules/videobuf-core.ko:
+/vendor/lib/modules/isl6421.ko:
+/vendor/lib/modules/mb86a20s.ko:
+/vendor/lib/modules/tegra-skin.ko:
+/vendor/lib/modules/lgs8gl5.ko:
+/vendor/lib/modules/au8522_decoder.ko: /vendor/lib/modules/au8522_common.ko
+/vendor/lib/modules/stb6000.ko:
+/vendor/lib/modules/cxd2820r.ko:
+/vendor/lib/modules/zl10039.ko:
+/vendor/lib/modules/nvhost-vi-tpg.ko:
+/vendor/lib/modules/zl10353.ko:
+/vendor/lib/modules/mn88472.ko:
+/vendor/lib/modules/snd-soc-tegra210-alt-mvc.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/bridge_mca.ko:
+/vendor/lib/modules/mxl5005s.ko:
+/vendor/lib/modules/tegra_hv_wdt.ko:
+/vendor/lib/modules/font.ko:
+/vendor/lib/modules/tda10023.ko:
+/vendor/lib/modules/tda1004x.ko:
+/vendor/lib/modules/atmel_mxt_ts_nv.ko:
+/vendor/lib/modules/isc_gpio.ko:
+/vendor/lib/modules/tegra_hv_comm.ko:
+/vendor/lib/modules/isc_dev.ko:
+/vendor/lib/modules/snd-soc-tegra-alt-t186ref-boden.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/tua6100.ko:
+/vendor/lib/modules/bcm3510.ko:
+/vendor/lib/modules/rtl2830.ko:
+/vendor/lib/modules/s921.ko:
+/vendor/lib/modules/s5h1432.ko:
+/vendor/lib/modules/af9013.ko:
+/vendor/lib/modules/nvs_veml6030.ko: /vendor/lib/modules/nvs.ko
+/vendor/lib/modules/tda8290.ko:
+/vendor/lib/modules/dib0090.ko:
+/vendor/lib/modules/qt1010.ko:
+/vendor/lib/modules/snd-soc-rt5640.ko:
+/vendor/lib/modules/mc44s803.ko:
+/vendor/lib/modules/virtio_blk.ko:
+/vendor/lib/modules/imx204.ko:
+/vendor/lib/modules/au8522_dig.ko: /vendor/lib/modules/au8522_common.ko
+/vendor/lib/modules/em28xx.ko: /vendor/lib/modules/tveeprom.ko
+/vendor/lib/modules/can-dev.ko:
+/vendor/lib/modules/ov23850.ko:
+/vendor/lib/modules/a8293.ko:
+/vendor/lib/modules/tegra-hv-vse.ko:
+/vendor/lib/modules/crc8.ko:
+/vendor/lib/modules/tuner-simple.ko: /vendor/lib/modules/tuner-types.ko
+/vendor/lib/modules/hid-nvidia-blake.ko:
+/vendor/lib/modules/sensor_kernel_tests.ko:
+/vendor/lib/modules/or51132.ko:
+/vendor/lib/modules/cx22700.ko:
+/vendor/lib/modules/ec100.ko:
+/vendor/lib/modules/em28xx-rc.ko: /vendor/lib/modules/em28xx.ko /vendor/lib/modules/tveeprom.ko
+/vendor/lib/modules/snd-soc-tegra210-alt-mixer.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/lnbp22.ko:
+/vendor/lib/modules/pwm_fan.ko:
+/vendor/lib/modules/rm31080a_ts.ko: /vendor/lib/modules/rm31080a_ctrl.ko
+/vendor/lib/modules/tveeprom.ko:
+/vendor/lib/modules/zl10036.ko:
+/vendor/lib/modules/cx25840.ko:
+/vendor/lib/modules/imx185_v1.ko:
+/vendor/lib/modules/m88rs6000t.ko:
+/vendor/lib/modules/snd-soc-tegra210-alt-xbar.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/max2165.ko:
+/vendor/lib/modules/snd-soc-tegra-alt-utils.ko:
+/vendor/lib/modules/tuner-types.ko:
+/vendor/lib/modules/fc0011.ko:
+/vendor/lib/modules/rtl8821cu.ko: /vendor/lib/modules/cfg80211.ko
+/vendor/lib/modules/lp88xx_core.ko:
+/vendor/lib/modules/xc4000.ko:
+/vendor/lib/modules/lp855x_bl.ko:
+/vendor/lib/modules/ves1820.ko:
+/vendor/lib/modules/mttcan.ko: /vendor/lib/modules/can-dev.ko
+/vendor/lib/modules/snd-soc-tegra186-alt-asrc.ko: /vendor/lib/modules/snd-soc-tegra186-alt-arad.ko /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/snd-soc-tegra210-virt-alt-admaif.ko: /vendor/lib/modules/snd-soc-tegra-virt-alt-ivc.ko /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/snd-soc-tegra210-alt-adx.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/imx274.ko:
+/vendor/lib/modules/lgdt330x.ko:
+/vendor/lib/modules/nvs_bh1730fvc.ko: /vendor/lib/modules/nvs.ko
+/vendor/lib/modules/tuner-xc2028.ko:
+/vendor/lib/modules/bcmdhd_pcie.ko: /vendor/lib/modules/cfg80211.ko
+/vendor/lib/modules/ecdsa_generic.ko:
+/vendor/lib/modules/mt20xx.ko:
+/vendor/lib/modules/nvs_cm3218.ko: /vendor/lib/modules/nvs.ko
+/vendor/lib/modules/tegra18_serr.ko: /vendor/lib/modules/denver_mca.ko /vendor/lib/modules/ari_mca.ko
+/vendor/lib/modules/ts2020.ko:
+/vendor/lib/modules/virtio_console.ko:
+/vendor/lib/modules/saf36xx-hwdep.ko:
+/vendor/lib/modules/tcrypt.ko:
+/vendor/lib/modules/snd-soc-tegra-virt-t210ref-pcm.ko: /vendor/lib/modules/snd-soc-tegra210-virt-alt-admaif.ko /vendor/lib/modules/snd-soc-tegra-virt-alt-ivc.ko /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/stv090x.ko:
+/vendor/lib/modules/lp88xx_i2c.ko: /vendor/lib/modules/lp88xx_core.ko
+/vendor/lib/modules/nvi-bmpX80.ko: /vendor/lib/modules/nvi-mpu.ko /vendor/lib/modules/nvs.ko
+/vendor/lib/modules/hd29l2.ko:
+/vendor/lib/modules/snd-soc-tegra210-alt-sfc.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/tegra_cpc.ko:
+/vendor/lib/modules/dib3000mc.ko: /vendor/lib/modules/dibx000_common.ko
+/vendor/lib/modules/stv6110.ko:
+/vendor/lib/modules/snd-soc-tegra186-alt-dspk.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/msi001.ko:
+/vendor/lib/modules/snd-soc-tegra210-virt-alt-adsp.ko: /vendor/lib/modules/tegra210-adma.ko /vendor/lib/modules/snd-soc-tegra-virt-alt-ivc.ko /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/tda18218.ko:
+/vendor/lib/modules/br_netfilter.ko:
+/vendor/lib/modules/dib9000.ko: /vendor/lib/modules/dibx000_common.ko
+/vendor/lib/modules/mn88473.ko:
+/vendor/lib/modules/snd-soc-tegra210-alt-ope.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/input-cfboost.ko:
+/vendor/lib/modules/cx24120.ko:
+/vendor/lib/modules/mb86a16.ko:
+/vendor/lib/modules/m88rs2000.ko:
+/vendor/lib/modules/xc5000.ko:
+/vendor/lib/modules/ozwpan.ko:
+/vendor/lib/modules/si21xx.ko:
+/vendor/lib/modules/cx24113.ko:
+/vendor/lib/modules/l64781.ko:
+/vendor/lib/modules/tda665x.ko:
+/vendor/lib/modules/tea5767.ko:
+/vendor/lib/modules/nvs_ais328dq.ko: /vendor/lib/modules/nvs.ko
+/vendor/lib/modules/snd-soc-tegra210-alt-adsp.ko: /vendor/lib/modules/tegra210-adma.ko /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/saf775x-hwdep.ko:
+/vendor/lib/modules/tda8261.ko:
+/vendor/lib/modules/mt2131.ko:
+/vendor/lib/modules/tegra-cryptodev.ko: /vendor/lib/modules/tegra-se-elp.ko /vendor/lib/modules/ecdsa_generic.ko
+/vendor/lib/modules/snd-soc-sgtl5000.ko:
+/vendor/lib/modules/helene.ko:
+/vendor/lib/modules/stv0297.ko:
+/vendor/lib/modules/nvs_led_test.ko: /vendor/lib/modules/nvs.ko
+/vendor/lib/modules/snd-soc-tegra186-alt-arad.ko:
+/vendor/lib/modules/em28xx-dvb.ko: /vendor/lib/modules/em28xx.ko /vendor/lib/modules/tveeprom.ko
+/vendor/lib/modules/lg2160.ko:
+/vendor/lib/modules/can.ko:
+/vendor/lib/modules/e4000.ko:
+/vendor/lib/modules/isl6423.ko:
+/vendor/lib/modules/ov10823.ko:
+/vendor/lib/modules/tc90522.ko:
+/vendor/lib/modules/stv6110x.ko:
+/vendor/lib/modules/cx24123.ko:
+/vendor/lib/modules/stb0899.ko:
+/vendor/lib/modules/ves1x93.ko:
+/vendor/lib/modules/virtio_pci.ko:
+/vendor/lib/modules/dib7000p.ko: /vendor/lib/modules/dibx000_common.ko
+/vendor/lib/modules/spidev.ko:
+/vendor/lib/modules/cx24116.ko:
+/vendor/lib/modules/tda18271.ko:
+/vendor/lib/modules/cxd2841er.ko:
+/vendor/lib/modules/nxt6000.ko:
+/vendor/lib/modules/tda18272.ko:
+/vendor/lib/modules/cfg80211.ko:
+/vendor/lib/modules/nvs_a3g4250d.ko: /vendor/lib/modules/nvs.ko
+/vendor/lib/modules/cx231xx.ko: /vendor/lib/modules/tveeprom.ko /vendor/lib/modules/cx2341x.ko /vendor/lib/modules/videobuf-vmalloc.ko /vendor/lib/modules/videobuf-core.ko
+/vendor/lib/modules/cx22702.ko:
+/vendor/lib/modules/lc898212.ko:
+/vendor/lib/modules/tda9887.ko:
+/vendor/lib/modules/bluedroid_pm.ko:
+/vendor/lib/modules/isl6405.ko:
+/vendor/lib/modules/isc_mgr.ko:
+/vendor/lib/modules/denver_mca.ko: /vendor/lib/modules/ari_mca.ko
+/vendor/lib/modules/dvb-pll.ko:
+/vendor/lib/modules/core.ko:
+/vendor/lib/modules/tegra18_a57_serr.ko:
+/vendor/lib/modules/mt352.ko:
+/vendor/lib/modules/peak_usb.ko: /vendor/lib/modules/can-dev.ko
+/vendor/lib/modules/tegra-se-nvhost.ko:
+/vendor/lib/modules/af9033.ko:
+/vendor/lib/modules/mt312.ko:
+/vendor/lib/modules/hid-jarvis-remote.ko:
+/vendor/lib/modules/imx318.ko:
+/vendor/lib/modules/joycon-serdev.ko: /vendor/lib/modules/crc8.ko
+/vendor/lib/modules/r8168.ko:
+/vendor/lib/modules/tda10021.ko:
+/vendor/lib/modules/ov5693.ko:
+/vendor/lib/modules/nxt200x.ko:
+/vendor/lib/modules/tegra-se.ko:
+/vendor/lib/modules/pca9570.ko:
+/vendor/lib/modules/videobuf-dvb.ko: /vendor/lib/modules/videobuf-core.ko
+/vendor/lib/modules/drx39xyj.ko:
+/vendor/lib/modules/tda18212.ko:
+/vendor/lib/modules/tea5761.ko:
+/vendor/lib/modules/imx268.ko:
+/vendor/lib/modules/lgdt3306a.ko:
+/vendor/lib/modules/s5h1409.ko:
+/vendor/lib/modules/ari_mca.ko:
+/vendor/lib/modules/cdc-acm.ko:
+/vendor/lib/modules/snd-soc-tegra-alt-t186ref-bali.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/sp8870.ko:
+/vendor/lib/modules/mt2060.ko:
+/vendor/lib/modules/m88ds3103.ko:
+/vendor/lib/modules/usb-storage.ko:
+/vendor/lib/modules/i2c-tegra-slave.ko:
+/vendor/lib/modules/gspca_main.ko:
+/vendor/lib/modules/spi-im501.ko:
+/vendor/lib/modules/imx219.ko:
+/vendor/lib/modules/vcan.ko:
+/vendor/lib/modules/bad.ko:
+/vendor/lib/modules/dib8000.ko: /vendor/lib/modules/dibx000_common.ko
+/vendor/lib/modules/lgs8gxx.ko:
+/vendor/lib/modules/snd-soc-tegra-virt-alt-ivc.ko:
+/vendor/lib/modules/au8522_common.ko:
+/vendor/lib/modules/rtl8822ce.ko: /vendor/lib/modules/cfg80211.ko
+/vendor/lib/modules/stv0900.ko:
+/vendor/lib/modules/i2c-slave-eeprom.ko:
+/vendor/lib/modules/si2168.ko:
+/vendor/lib/modules/drxk.ko:
+/vendor/lib/modules/can-raw.ko: /vendor/lib/modules/can.ko
+/vendor/lib/modules/snd-soc-tegra210-alt-amx.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/cpufreq_powersave.ko:
+/vendor/lib/modules/or51211.ko:
+/vendor/lib/modules/imx185.ko:
+/vendor/lib/modules/stv0367.ko:
+/vendor/lib/modules/nvpmodel_emc_cap.ko:
+/vendor/lib/modules/horus3a.ko:
+/vendor/lib/modules/snd-soc-tegra210-alt-afc.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/snd-soc-tegra210-alt-admaif.ko: /vendor/lib/modules/tegra210-adma.ko /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/cx24117.ko:
+/vendor/lib/modules/si2165.ko:
+/vendor/lib/modules/r820t.ko:
+/vendor/lib/modules/can-gw.ko: /vendor/lib/modules/can.ko
+/vendor/lib/modules/nvi-mpu.ko: /vendor/lib/modules/nvs.ko
+/vendor/lib/modules/stv0288.ko:
+/vendor/lib/modules/sp887x.ko:
+/vendor/lib/modules/nvhost-vi-tpg-t19x.ko:
+/vendor/lib/modules/atbm8830.ko:
+/vendor/lib/modules/virtio_balloon.ko:
+/vendor/lib/modules/bcmdhd.ko: /vendor/lib/modules/cfg80211.ko
+/vendor/lib/modules/mt2266.ko:
+/vendor/lib/modules/cx24110.ko:
+/vendor/lib/modules/i2c-tegra194-slave.ko:
+/vendor/lib/modules/generic_bl.ko:
+/vendor/lib/modules/leds-cy8c.ko:
+/vendor/lib/modules/dib7000m.ko: /vendor/lib/modules/dibx000_common.ko
+/vendor/lib/modules/slcan.ko:
+/vendor/lib/modules/snd-soc-tegra210-alt-dmic.ko: /vendor/lib/modules/snd-soc-tegra-alt-utils.ko
+/vendor/lib/modules/nvi-ak89xx.ko: /vendor/lib/modules/nvi-mpu.ko /vendor/lib/modules/nvs.ko
+/vendor/lib/modules/ascot2e.ko:
+/vendor/lib/modules/fc2580.ko:
+/vendor/lib/modules/fc0013.ko:
+/vendor/lib/modules/ov9281.ko:
+/vendor/lib/modules/nvs_aon_shub.ko: /vendor/lib/modules/nvs.ko
+/vendor/lib/modules/tegra-se-elp.ko: /vendor/lib/modules/ecdsa_generic.ko

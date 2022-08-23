@@ -1,0 +1,29 @@
+# Copyright (C) 2019 The LineageOS Project
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+import init.recovery.lkm.rc
+import init.recovery.xusb.configfs.usb.rc
+import init.recovery.usb.configfs.rc
+
+on early-init
+    # TWRP doesn't have bootanim, so reset fb on early-init
+    write /sys/class/graphics/fb0/blank 1
+    write /sys/class/graphics/fb0/state 0
+    write /sys/class/graphics/fb0/blank 0
+
+on init
+    setprop sys.usb.configfs 1
+    setprop persist.twrp.rotation 270
+    setprop ro.minui.default_rotation "ROTATION_LEFT"
+    write /sys/bus/platform/drivers/tegra-reboot2payload/r2p/default_payload_ready 1
